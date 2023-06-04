@@ -1,2 +1,3 @@
 # Deep_Learning_Specialization_Coursera
-Course Homework
+
+Course notes and assignments
